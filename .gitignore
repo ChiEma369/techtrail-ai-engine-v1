@@ -1,4 +1,7 @@
-data/
-*.csv
-*.zip
 __pycache__/
+*.py[cod]
+checkpoints/
+*.pt
+*.pth
+*.zip
+.ipynb_checkpoints/
