@@ -1,0 +1,2 @@
+,accuracy,precision_macro,recall_macro,f1_macro
+Baseline (TF-IDF + LR),0.8133,0.8197,0.8134,0.8138

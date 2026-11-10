@@ -1,0 +1,4 @@
+,accuracy,precision_macro,recall_macro,f1_macro
+TF-IDF Full-text v2,0.81,0.8165,0.81,0.8105
+TF-IDF Chunk v2,0.78,0.8086,0.78,0.7787
+BiLSTM + Attention v2,0.98,0.9807,0.9799,0.9801
