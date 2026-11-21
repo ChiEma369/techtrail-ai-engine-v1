@@ -1,0 +1,301 @@
+id,evid_pos,y_true,y_pred
+550,6,Frontend Developer,Frontend Developer
+493,0,Cloud Enginee,Cloud Enginee
+753,6,Data Scientist,Data Scientist
+1313,5,Python Developer,Python Developer
+1296,0,Python Developer,Python Developer
+1261,0,Python Developer,Python Developer
+377,0,Cloud Enginee,Cloud Enginee
+581,2,Frontend Developer,Frontend Developer
+1517,3,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1076,4,Full Stack Developer,Full Stack Developer
+1724,5,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1548,5,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1576,6,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+496,7,Cloud Enginee,Cloud Enginee
+1433,5,Python Developer,Python Developer
+1082,2,Full Stack Developer,Full Stack Developer
+317,1,Cloud Enginee,Cloud Enginee
+385,2,Cloud Enginee,Cloud Enginee
+1796,0,Machine Learning Engineer,Machine Learning Engineer
+107,4,Backend Developer,Backend Developer
+1800,4,Machine Learning Engineer,Machine Learning Engineer
+1145,3,Full Stack Developer,Full Stack Developer
+494,1,Cloud Enginee,Cloud Enginee
+63,0,Backend Developer,Backend Developer
+830,5,Data Scientist,Data Scientist
+1235,5,Full Stack Developer,Full Stack Developer
+997,5,Data Scientist,Data Scientist
+415,1,Cloud Enginee,Cloud Enginee
+890,4,Data Scientist,Data Scientist
+52,5,Backend Developer,Backend Developer
+1831,1,Machine Learning Engineer,Machine Learning Engineer
+1237,2,Full Stack Developer,Full Stack Developer
+1299,6,Python Developer,Python Developer
+1151,5,Full Stack Developer,Full Stack Developer
+844,5,Data Scientist,Data Scientist
+1138,2,Full Stack Developer,Full Stack Developer
+1845,0,Machine Learning Engineer,Machine Learning Engineer
+784,1,Data Scientist,Data Scientist
+1587,7,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+131,2,Backend Developer,Backend Developer
+478,6,Cloud Enginee,Cloud Enginee
+188,0,Backend Developer,Full Stack Developer
+877,5,Data Scientist,Data Scientist
+1670,2,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1438,0,Python Developer,Python Developer
+1937,5,Machine Learning Engineer,Machine Learning Engineer
+1642,7,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1558,5,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+215,1,Backend Developer,Backend Developer
+400,0,Cloud Enginee,Cloud Enginee
+829,2,Data Scientist,Data Scientist
+1365,4,Python Developer,Python Developer
+879,2,Data Scientist,Data Scientist
+80,6,Backend Developer,Backend Developer
+590,2,Frontend Developer,Frontend Developer
+208,1,Backend Developer,Backend Developer
+110,2,Backend Developer,Backend Developer
+37,3,Backend Developer,Backend Developer
+538,1,Frontend Developer,Frontend Developer
+818,0,Data Scientist,Data Scientist
+1785,0,Machine Learning Engineer,Machine Learning Engineer
+163,7,Backend Developer,Backend Developer
+1744,6,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+792,2,Data Scientist,Data Scientist
+1271,1,Python Developer,Python Developer
+650,0,Frontend Developer,Frontend Developer
+584,0,Frontend Developer,Frontend Developer
+814,1,Data Scientist,Data Scientist
+457,3,Cloud Enginee,Cloud Enginee
+1911,2,Machine Learning Engineer,Machine Learning Engineer
+1119,1,Full Stack Developer,Full Stack Developer
+1760,7,Machine Learning Engineer,Machine Learning Engineer
+1891,6,Machine Learning Engineer,Python Developer
+1602,7,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1444,2,Python Developer,Python Developer
+286,3,Cloud Enginee,Cloud Enginee
+972,1,Data Scientist,Data Scientist
+1122,5,Full Stack Developer,Full Stack Developer
+850,5,Data Scientist,Data Scientist
+282,4,Cloud Enginee,Cloud Enginee
+492,2,Cloud Enginee,Cloud Enginee
+1441,4,Python Developer,Python Developer
+179,4,Backend Developer,Backend Developer
+552,0,Frontend Developer,Frontend Developer
+1986,1,Machine Learning Engineer,Machine Learning Engineer
+602,0,Frontend Developer,Frontend Developer
+689,0,Frontend Developer,Frontend Developer
+1680,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+256,6,Cloud Enginee,Cloud Enginee
+1000,5,Full Stack Developer,Full Stack Developer
+1964,5,Machine Learning Engineer,Machine Learning Engineer
+17,0,Backend Developer,Backend Developer
+466,1,Cloud Enginee,Cloud Enginee
+1564,2,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1321,2,Python Developer,Python Developer
+969,1,Data Scientist,Data Scientist
+748,0,Frontend Developer,Frontend Developer
+1639,3,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1759,6,Machine Learning Engineer,Machine Learning Engineer
+1607,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1502,7,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1278,3,Python Developer,Python Developer
+641,5,Frontend Developer,Frontend Developer
+1880,5,Machine Learning Engineer,Machine Learning Engineer
+928,2,Data Scientist,Data Scientist
+1728,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1008,5,Full Stack Developer,Full Stack Developer
+807,0,Data Scientist,Data Scientist
+1196,4,Full Stack Developer,Full Stack Developer
+628,0,Frontend Developer,Frontend Developer
+1619,5,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+617,6,Frontend Developer,Frontend Developer
+221,2,Backend Developer,Backend Developer
+824,0,Data Scientist,Data Scientist
+291,4,Cloud Enginee,Cloud Enginee
+1725,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1509,6,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1723,2,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1333,7,Python Developer,Python Developer
+1270,0,Python Developer,Data Scientist
+1164,0,Full Stack Developer,Full Stack Developer
+1886,1,Machine Learning Engineer,Machine Learning Engineer
+1093,2,Full Stack Developer,Full Stack Developer
+1821,0,Machine Learning Engineer,Machine Learning Engineer
+1684,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1827,6,Machine Learning Engineer,Machine Learning Engineer
+204,6,Backend Developer,Backend Developer
+446,1,Cloud Enginee,Cloud Enginee
+1498,1,Python Developer,Python Developer
+1330,3,Python Developer,Python Developer
+660,0,Frontend Developer,Frontend Developer
+1754,4,Machine Learning Engineer,Machine Learning Engineer
+1620,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1868,6,Machine Learning Engineer,Machine Learning Engineer
+339,0,Cloud Enginee,Cloud Enginee
+1572,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+680,3,Frontend Developer,Frontend Developer
+554,2,Frontend Developer,Frontend Developer
+1004,4,Full Stack Developer,Full Stack Developer
+956,3,Data Scientist,Data Scientist
+1512,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+708,5,Frontend Developer,Frontend Developer
+1834,0,Machine Learning Engineer,Machine Learning Engineer
+1421,0,Python Developer,Python Developer
+1211,5,Full Stack Developer,Full Stack Developer
+465,4,Cloud Enginee,Cloud Enginee
+1852,7,Machine Learning Engineer,Machine Learning Engineer
+1927,4,Machine Learning Engineer,Machine Learning Engineer
+1423,2,Python Developer,Python Developer
+443,6,Cloud Enginee,Cloud Enginee
+795,3,Data Scientist,Data Scientist
+1010,6,Full Stack Developer,Full Stack Developer
+1302,5,Python Developer,Python Developer
+1869,1,Machine Learning Engineer,Machine Learning Engineer
+1092,5,Full Stack Developer,Full Stack Developer
+87,3,Backend Developer,Backend Developer
+1160,3,Full Stack Developer,Full Stack Developer
+845,2,Data Scientist,Data Scientist
+202,7,Backend Developer,Backend Developer
+1048,2,Full Stack Developer,Full Stack Developer
+531,3,Frontend Developer,Full Stack Developer
+413,5,Cloud Enginee,Cloud Enginee
+1640,1,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1012,7,Full Stack Developer,Full Stack Developer
+1041,6,Full Stack Developer,Full Stack Developer
+1921,4,Machine Learning Engineer,Machine Learning Engineer
+260,0,Cloud Enginee,Cloud Enginee
+551,3,Frontend Developer,Frontend Developer
+1088,3,Full Stack Developer,Full Stack Developer
+1368,3,Python Developer,Python Developer
+1561,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+232,5,Backend Developer,Backend Developer
+848,3,Data Scientist,Data Scientist
+1061,4,Full Stack Developer,Full Stack Developer
+522,0,Frontend Developer,Frontend Developer
+103,3,Backend Developer,Backend Developer
+1974,0,Machine Learning Engineer,Machine Learning Engineer
+945,0,Data Scientist,Data Scientist
+417,2,Cloud Enginee,Cloud Enginee
+1778,4,Machine Learning Engineer,Machine Learning Engineer
+1795,5,Machine Learning Engineer,Machine Learning Engineer
+622,4,Frontend Developer,Frontend Developer
+1198,7,Full Stack Developer,Full Stack Developer
+418,4,Cloud Enginee,Cloud Enginee
+839,5,Data Scientist,Data Scientist
+529,4,Frontend Developer,Frontend Developer
+1969,3,Machine Learning Engineer,Machine Learning Engineer
+1149,2,Full Stack Developer,Full Stack Developer
+1878,6,Machine Learning Engineer,Machine Learning Engineer
+719,5,Frontend Developer,Frontend Developer
+986,6,Data Scientist,Data Scientist
+1533,6,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1161,0,Full Stack Developer,Full Stack Developer
+1896,3,Machine Learning Engineer,Machine Learning Engineer
+130,1,Backend Developer,Backend Developer
+1373,2,Python Developer,Python Developer
+206,1,Backend Developer,Backend Developer
+910,3,Data Scientist,Data Scientist
+20,3,Backend Developer,Backend Developer
+462,3,Cloud Enginee,Cloud Enginee
+903,6,Data Scientist,Data Scientist
+1842,0,Machine Learning Engineer,Machine Learning Engineer
+401,4,Cloud Enginee,Cloud Enginee
+1479,6,Python Developer,Python Developer
+1623,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1457,3,Python Developer,Python Developer
+1632,2,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+116,2,Backend Developer,Backend Developer
+823,1,Data Scientist,Data Scientist
+1104,7,Full Stack Developer,Frontend Developer
+1412,3,Python Developer,Python Developer
+1562,0,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+661,1,Frontend Developer,Frontend Developer
+692,2,Frontend Developer,Frontend Developer
+973,1,Data Scientist,Data Scientist
+1560,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1016,0,Full Stack Developer,Full Stack Developer
+1470,0,Python Developer,Python Developer
+460,7,Cloud Enginee,Cloud Enginee
+461,3,Cloud Enginee,Cloud Enginee
+1424,3,Python Developer,Python Developer
+1328,5,Python Developer,Python Developer
+1013,4,Full Stack Developer,Full Stack Developer
+1739,2,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1476,4,Python Developer,Python Developer
+565,1,Frontend Developer,Frontend Developer
+1452,7,Python Developer,Python Developer
+21,3,Backend Developer,Backend Developer
+235,7,Backend Developer,Backend Developer
+342,4,Cloud Enginee,Cloud Enginee
+773,2,Data Scientist,Data Scientist
+362,3,Cloud Enginee,Cloud Enginee
+434,1,Cloud Enginee,Cloud Enginee
+782,2,Data Scientist,Data Scientist
+1717,1,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1150,7,Full Stack Developer,Full Stack Developer
+166,2,Backend Developer,Backend Developer
+700,2,Frontend Developer,Frontend Developer
+1178,0,Full Stack Developer,Full Stack Developer
+701,0,Frontend Developer,Frontend Developer
+1009,4,Full Stack Developer,Full Stack Developer
+8,2,Backend Developer,Backend Developer
+134,1,Backend Developer,Backend Developer
+1039,5,Full Stack Developer,Full Stack Developer
+1459,0,Python Developer,Python Developer
+1167,3,Full Stack Developer,Full Stack Developer
+210,2,Backend Developer,Backend Developer
+1528,1,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+770,3,Data Scientist,Data Scientist
+863,4,Data Scientist,Data Scientist
+684,3,Frontend Developer,Frontend Developer
+737,1,Frontend Developer,Frontend Developer
+246,6,Backend Developer,Backend Developer
+303,4,Cloud Enginee,Cloud Enginee
+429,5,Cloud Enginee,Cloud Enginee
+597,3,Frontend Developer,Frontend Developer
+911,3,Data Scientist,Data Scientist
+174,7,Backend Developer,Backend Developer
+473,0,Cloud Enginee,Cloud Enginee
+672,6,Frontend Developer,Frontend Developer
+664,5,Frontend Developer,Frontend Developer
+57,5,Backend Developer,Backend Developer
+1751,7,Machine Learning Engineer,Machine Learning Engineer
+1841,0,Machine Learning Engineer,Machine Learning Engineer
+1255,7,Python Developer,Python Developer
+609,5,Frontend Developer,Frontend Developer
+1234,3,Full Stack Developer,Full Stack Developer
+230,2,Backend Developer,Backend Developer
+1960,2,Machine Learning Engineer,Machine Learning Engineer
+1893,0,Machine Learning Engineer,Machine Learning Engineer
+395,0,Cloud Enginee,Cloud Enginee
+926,2,Data Scientist,Data Scientist
+731,2,Frontend Developer,Frontend Developer
+591,6,Frontend Developer,Frontend Developer
+1411,6,Python Developer,Python Developer
+751,3,Data Scientist,Data Scientist
+1846,5,Machine Learning Engineer,Machine Learning Engineer
+1324,6,Python Developer,Python Developer
+1931,2,Machine Learning Engineer,Machine Learning Engineer
+157,2,Backend Developer,Backend Developer
+1341,5,Python Developer,Python Developer
+393,1,Cloud Enginee,Cloud Enginee
+49,1,Backend Developer,Backend Developer
+1567,1,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1641,4,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+704,5,Frontend Developer,Frontend Developer
+1094,5,Full Stack Developer,Full Stack Developer
+962,7,Data Scientist,Data Scientist
+74,3,Backend Developer,Backend Developer
+983,1,Data Scientist,Data Scientist
+499,2,Cloud Enginee,Cloud Enginee
+1879,4,Machine Learning Engineer,Machine Learning Engineer
+1273,2,Python Developer,Python Developer
+546,2,Frontend Developer,Frontend Developer
+1489,7,Python Developer,Python Developer
+1669,3,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1676,5,Mobile App Developer (iOS/Android),Mobile App Developer (iOS/Android)
+1396,1,Python Developer,Python Developer
+1099,3,Full Stack Developer,Full Stack Developer
+129,3,Backend Developer,Backend Developer
